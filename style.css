@@ -1,0 +1,40 @@
+h1{
+    color: brown; 
+} 
+*{
+font-family: ;} 
+nav {
+    
+        
+            display: inline-block;
+            width: 100px;
+            height: 100px;
+            padding: 5px;
+            border: 1px solid blue;
+            background-color: yellow;
+  } 
+#title{
+    height: 50px;
+} 
+nav{
+    ul{
+        list-style: none; 
+        margin-bottom: 100px; 
+        margin-right: 200px;
+    }
+} 
+p{
+    background-color: blue; 
+    color: blueviolet;
+} 
+.ma{
+    margin: 20px 0px; 
+
+} 
+h1{
+    background-color: bisque;
+}
+p{
+    margin: 10px 0px ; 
+    background-color: black;
+} 
